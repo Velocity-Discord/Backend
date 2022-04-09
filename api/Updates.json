@@ -1,0 +1,8 @@
+
+{
+    "version": "0.3.1",
+    "changelog": {
+        "description": "**Added**\n\n\n- New Plugin System \n- Modals \n- Developer Settings\n\n",
+        "subtitle": "April 08, 2022"
+    }
+}
