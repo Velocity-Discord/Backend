@@ -1,6 +1,6 @@
 
 {
-    "version": "0.5.0",
+    "version": "0.5.1",
     "changelog": {
         "description": "**Added**\n\n\n- **New Backend.** Switched To a Velocity-Discord hosted Backend. Yay, Branding!!! \n- **Cleanup.** Smaller Bundle Size!!! Improved performance, *Smaller* and the Code looks better\n\n\n",
         "subtitle": "April 18, 2022"
