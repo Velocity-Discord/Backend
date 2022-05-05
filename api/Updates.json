@@ -2,7 +2,7 @@
 {
     "version": "0.5.2",
     "changelog": {
-        "description": "**Added**\n\n\n- **Scripts!** Added Installation scripts so you don't need to manually create files every time discord udpates! \n- **Canary Fix.** \n\n\n \n- **Integrity Checks.** We've added ways for us to internally check the validity of your velocity installation! This means a safer time for everyone. \n\n\n",
+        "description": "**Added**\n\n\n- **Scripts!** Added Installation scripts so you don't need to manually create files every time discord udpates! \n- **Canary Fix.** \n- **Integrity Checks.** We've added ways for us to internally check the validity of your velocity installation! This means a safer time for everyone. \n\n\n",
         "subtitle": "May 5, 2022"
     }
 }
