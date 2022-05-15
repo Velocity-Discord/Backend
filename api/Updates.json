@@ -3,7 +3,7 @@
     "version": "0.8.0",
     "hash": "315c7c",
     "changelog": {
-        "description": "**Added**\n\n\n- **i18n** Languages!!! There are now 31 Different languages that we can translate Velocity to! \n- **Experiments** Ways for us to remotely add experimental featurs. \n- **Canary Fix.** \n- **Integrity Checks.** We've added ways for us to internally check the validity of your velocity installation! This means a safer time for everyone. \n\n\n**Changed**\n\n\n- **Toasts** Updated Toast Styles. \n-",
+        "description": "**Added.**\n\n\n- **i18n** Languages!!! There are now 31 Different languages that we can translate Velocity to! \n- **Experiments.** Ways for us to remotely add experimental featurs. \n- **Plugin Settings.** \n-  \n\n\n**Changed**\n\n\n- **Toasts** Updated Toast Styles. ",
         "subtitle": "May 15, 2022"
     }
 }
