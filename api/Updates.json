@@ -1,9 +1,9 @@
 
 {
-    "version": "0.8.0",
-    "hash": "315c7c",
+    "version": "0.9.0",
+    "hash": "13259f",
     "changelog": {
-        "description": "**Added.**\n\n\n- **i18n** Languages!!! There are now 31 Different languages that we can translate Velocity to! \n- **Experiments.** Ways for us to remotely add experimental featurs. \n- **Plugin Settings.** \n-  \n\n\n**Changed**\n\n\n- **Toasts** Updated Toast Styles. ",
-        "subtitle": "May 15, 2022"
+        "description": "**Added.**\n\n\n- **i18n.** Languages!!! There are now 31 Different languages that we can translate Velocity to! \n- **Experiments.** Ways for us to remotely add experimental featurs. \n- **Plugin Settings.** \n-  \n\n\n**Changed**\n\n\n- **Toasts** Updated Toast Styles. ",
+        "subtitle": "June 3, 2022"
     }
 }
