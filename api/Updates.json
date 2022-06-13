@@ -1,7 +1,7 @@
 
 {
-    "version": "0.9.1",
-    "hash": "13259f",
+    "version": "0.9.2",
+    "hash": "566e92",
     "changelog": {
         "description": "**Added**\n\n\n- **Multi-File Addons.** Meet Modules. These are unique addons that contain many files and have the same effects as plugins and themes! \n- **Crashed & Killed.** Alerts when something goes wrong internally. \n- **Typings.** Developers are at the top of our minds when developing Velocity, we now have in-depth API typings for you to use!  \n\n\n**Changed**\n\n\n- **Built-Ins.** Editor & Modal sizes. \n- **Updater.** Our new-and imporved updater lets you take more control over your Velocity installation! ",
         "subtitle": "June 3, 2022"
