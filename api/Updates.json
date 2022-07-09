@@ -1,9 +1,9 @@
 
 {
-    "version": "1.0.2",
-    "hash": "bc013a",
+    "version": "1.0.3",
+    "hash": "9e7bfe",
     "changelog": {
-        "description": "**Added**\n\n\n- **Nepute.** Neputne allows for a safer experience while using Velocity. \n- **Compatibility Classes.** Developers are now able to make tweaks to their themes based on **other** themes that are enabled!  \n\n\n**Changed**\n\n\n- **Settings. Oh My God..** Settings has had a *complete* overhaul! All panels display as if they were native settings and you can kiss Modals goodbye!",
-        "subtitle": "July 1, 2022"
+        "description": "**Added**\n\n\n- **Neptune.** Neptune allows for a safer experience while using Velocity. \n- **Compatibility Classes.** Developers are now able to make tweaks to their themes based on **other** themes that are enabled!  \n\n\n**Changed**\n\n\n- **Settings. Oh My God..** Settings has had a *complete* overhaul! All panels display as if they were native settings and you can kiss Modals goodbye!",
+        "subtitle": "July 9, 2022"
     }
 }
