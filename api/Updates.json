@@ -1,9 +1,9 @@
 
 {
-    "version": "1.0.10",
-    "hash": "cff31e",
+    "version": "1.0.11",
+    "hash": "6c5230",
     "changelog": {
-        "description": "**Added**\n\n\n- **In-Client Store (WIP).** You can now browse addons from within the client (eventually you can install them). \n\n\n**Changed**\n\n\n- **Updater.** Say Hello to a whole new Updater... \n- **Editor** The Custom CSS/Startup Script Editors are completely redesigned, with tabs, scopes (WIP) and more.",
-        "subtitle": "August 13, 2022"
+        "description": "**Fixed**\n\n\n- **A Lot of things.** :)",
+        "subtitle": "August 24, 2022"
     }
 }
